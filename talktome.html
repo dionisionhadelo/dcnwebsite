@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DCN Dionisio Nhadelo</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <link rel="stylesheet" href="css/form.css">
+</head>
+<script language="javascript" src="javascript/funcoes.js"></script>
+<body>
+<div id="interface">
+
+    <header id="cabecalho">
+    <hgroup>
+    <h1>Dionisio C. Nhadelo</h1>
+    <h2>Get to know me</h2>
+    </hgroup>
+    <img id="icone" src="icones/contact.png">  
+    <nav id="menu">
+    <h1>Menu principal</h1>
+    <ul type="disc">
+        <li onmousemove="mudaFoto('icones/home.png')" onmouseout="mudaFoto('icones/contact.png')"><a href="index.html">Home</a></li>
+        <li onmousemove="mudaFoto('_icones/cv3.png')" onmouseout="mudaFoto('icones/contact.png')"><a href="cv.html">Cv</a></li>
+      
+        
+        <li onmousemove="mudaFoto('icones/gallery2.png')" onmouseout="mudaFoto('icones/contact.png')"><a href="gallery.html">Gallery</a></a></li>
+        <li onmousemove="mudaFoto('icones/contact.png')" onmouseout="mudaFoto('icones/contact.png')"><a href="talktome.html">Talk to me</a></a></li>
+    </ul>
+    </nav>
+    </header>
+
+<section id="corpo-full"> 
+
+</section>
+</head>
+    
+<body>
+    <article id="noticia-principal">    
+        <header id="cabecalho-artigo">
+        <hgroup> 
+        <h3>Dionisio > Contact</h3> 
+        <h1>Contact Form</h1>
+        <h2>by Dionisio Nhadelo</h2>
+        <h3 class="direita">Last update in 20/July/2021</h3>
+        </hgroup>
+    </header>
+  <form method="POST" id="fContact" action="mailto:dionisiocandido1@gmail.com">
+      <fieldset id="usuario"> <legend>User ID</legend>
+       <p> <label for="cName">Name:</label> <input type="text" name="tName" id="cName" size="20" maxlength="30" placeholder="Full Name"/></p>
+        
+        <p><label for="cMail">E-mail:</label> <input type="email" name="tMail" id="cMail" size="20" maxlength="20" placeholder="e-mail"> </p>
+        <fieldset id="sexo"><legend>Gender:</legend>
+            <input type="radio" name="tSexo" id="cMasc" checked/> <label for="cMasc">Male</label><br/>
+            <input type="radio" name="tSexo" id="cFem"/> <label for="cFem">Female</label> 
+        </fieldset>
+            <p><label for="cNasc">Birth date</label><input type="date" name="tNasc" id="cNasc"</p>
+        </fieldset>
+
+        <fieldset id="endereco"> <legend> User address:</legend>
+           <p> <label for="cPai">Country:</label> <select name="tPai" id="cPai">
+               <option value="MZ" selected>Mozambique</option>
+               <option>South Africa</option>
+               <option>UK</option>
+               <option>USA</option>
+           </select> </p>
+            <p> <label for="cPro">Province:</label> <input type="text" name="tPro" id="cPro" size="20" maxlength="30" placeholder="Province"/></p>
+            <p><label for="cCid"> City:</label><input type="text" name="tCid" id="cCid" size="20" maxlength="30" placeholder="City"/></p>
+        </fieldset>
+
+        <fieldset id="mensagem"> <legend> User message</legend>
+            <p><label for="cMes">Message:</label> <textarea name="tMes" id="cMes" rows="5" cols="45" placeholder="Please, leave your message"></textarea></textarea>  </p>
+
+    <input type="submit">  
+    </fieldset>
+
+  </form>
+
+
+
+    </article>
+</section>
+<p>You can talk to me through this form:</p>
+
+<footer id="rodape">
+<p>Copyright &copy; 2021 - by Dionisio Nhadelo <br/>
+<a href="http://facebook.com/dionisio.candido.5" target="_blank">Facebook </a>| <a href="http://twitter.com/nhadelo" target="_blank">Twitter</a> | <a href="http://github.com/dionisionhadelo" target="_blank"> GitHub</a></p>
+</footer>
+</div>
+
+</body>
+</html>
