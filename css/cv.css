@@ -2,7 +2,9 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pt;
+    font-size: 14pt;
+    word-spacing: 1px;
+    
 }
 p {
     text-align: justify;
@@ -31,7 +33,7 @@ article {
 
 
 section#conteudo {
-    width: 1000px;
+    width: 400px;
     margin: auto;
     
 
