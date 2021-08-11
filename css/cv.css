@@ -44,3 +44,29 @@ section#corpo-full  {
     text-align: justify;
 
 }
+article#geral p {
+    margin: 10px;
+}
+article#geral h2 {
+    margin-left: 10px;
+}
+article#geral h3 {
+    margin: 30px;
+}
+article#geral {
+    text-align: justify;
+    
+    
+}
+article#referencias span {
+    text-decoration: underline;
+    color: blue;
+}
+article#referencias li {
+    margin: 10px;
+    text-align: justify;
+}
+article#cv p {
+    margin: auto;
+    text-align:center;
+}
