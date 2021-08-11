@@ -39,4 +39,8 @@ section#conteudo {
 
 }
 
-section
+section#corpo-full  {
+    margin: 50px;
+    text-align: justify;
+
+}
