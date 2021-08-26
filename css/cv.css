@@ -2,25 +2,18 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14pt;
-    word-spacing: 1px;
+    
     
 }
 p {
     text-align: justify;
     text-indent: 20px;
 }
-article h1 {
-    font-size: 15pt;
-    color: #ffffff;
-    background-color: rgba(0,0,0,.3);
-    padding: 5px;
-    margin: 0px;
-    position: relative;
-    display: block;
-    float: right;
+
     
-}
+    
+    
+
 article h2 {
     font-size: 13pt;
     color: #888888;
@@ -29,6 +22,17 @@ article h2 {
 }
 article {
     margin-bottom: 100px;
+}
+article#nome h1 {
+    font-size: 15pt;
+    color: #ffffff;
+    background-color: rgba(0,0,0,.3);
+    padding: 5px;
+    margin: 0px;
+    position: relative;
+    display: block;
+    float: right;
+
 }
 
 
@@ -56,8 +60,12 @@ article#referencias span {
 article#referencias li {
     margin: 10px;
     text-align: justify;
+    font-size: 14pt;
 }
 article#cv p {
     margin: auto;
     text-align:center;
+}
+p {
+    font-size: 14pt;
 }
