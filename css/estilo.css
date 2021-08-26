@@ -10,6 +10,9 @@ body{
     font-family: Arial, sans-serif;
     background-color: #dddddd;
     color: rgba(0,0,0,1);
+    background-image: url("../imagens/fundo2.jpg");
+    background-size: 250px;
+    
    
 }
 

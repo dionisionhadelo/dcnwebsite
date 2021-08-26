@@ -44,7 +44,7 @@ ul#album-fotos li:hover span {
 /* HPC & PYTHON */
 
 ul#album-fotos li#foto01 {
-    background: url('../imagens/hpc1.png') no-repeat;
+    background: url('../imagens/hpc/hpc1.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -56,7 +56,7 @@ ul#album-fotos li#foto01:hover {
 }
 
 ul#album-fotos li#foto02 {
-    background: url('../imagens/hpc2.png') no-repeat;
+    background: url('../imagens/hpc/hpc2.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -68,7 +68,7 @@ ul#album-fotos li#foto02:hover {
 }
 
 ul#album-fotos li#foto03 {
-    background: url('../imagens/hpc3.png') no-repeat;
+    background: url('../imagens/hpc/hpc3.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -80,7 +80,7 @@ ul#album-fotos li#foto03:hover {
 }
 
 ul#album-fotos li#foto04 {
-    background: url('../imagens/hpc4.png') no-repeat;
+    background: url('../imagens/hpc/hpc4.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -92,7 +92,7 @@ ul#album-fotos li#foto04:hover {
 }
 
 ul#album-fotos li#foto05 {
-    background: url('../imagens/hpc5.JPEG') no-repeat;
+    background: url('../imagens/hpc/python1.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -106,7 +106,7 @@ ul#album-fotos li#foto05:hover {
 
 
 ul#album-fotos li#foto06 {
-    background: url('../imagens/python1.JPEG') no-repeat;
+    background: url('../imagens/hpc/python2.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -118,7 +118,7 @@ ul#album-fotos li#foto06:hover {
 }
 
 ul#album-fotos li#foto07 {
-    background: url('../imagens/python2.JPEG') no-repeat;
+    background: url('../imagens/hpc/python3.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -130,7 +130,7 @@ ul#album-fotos li#foto07:hover {
 }
 
 ul#album-fotos li#foto08 {
-    background: url('../imagens/python3.png') no-repeat;
+    background: url('../imagens/hpc/python4.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -142,7 +142,7 @@ ul#album-fotos li#foto08:hover {
 }
 
 ul#album-fotos li#foto09 {
-    background: url('../imagens/python4.png') no-repeat;
+    background: url('../imagens/hpc/dr1.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -154,7 +154,7 @@ ul#album-fotos li#foto09:hover {
 }
 
 ul#album-fotos li#foto10 {
-    background: url('../imagens/python5.png') no-repeat;
+    background: url('../imagens/hpc/dr2.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -165,8 +165,12 @@ ul#album-fotos li#foto10:hover {
     background-size: 320px 320px;
 }
 
+
+
+/* HACKATHON */
+
 ul#album-fotos li#foto11 {
-    background: url('../imagens/team-work.jpg') no-repeat;
+    background: url('../imagens/hack/hack1.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -176,8 +180,9 @@ ul#album-fotos li#foto11:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
+
 ul#album-fotos li#foto12 {
-    background: url('../imagens/show.jpg') no-repeat;
+    background: url('../imagens/hack/hack2.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -188,10 +193,8 @@ ul#album-fotos li#foto12:hover {
     background-size: 320px 320px;
 }
 
-/* HACKATHON */
-
 ul#album-fotos li#foto13 {
-    background: url('../imagens/hack2.png') no-repeat;
+    background: url('../imagens/hack/hack3.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -203,7 +206,7 @@ ul#album-fotos li#foto13:hover {
 }
 
 ul#album-fotos li#foto14 {
-    background: url('../imagens/hack5.png') no-repeat;
+    background: url('../imagens/hack/hack4.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -215,7 +218,7 @@ ul#album-fotos li#foto14:hover {
 }
 
 ul#album-fotos li#foto15 {
-    background: url('../imagens/hack4.png') no-repeat;
+    background: url('../imagens/hack/hack5.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -226,8 +229,10 @@ ul#album-fotos li#foto15:hover {
     background-size: 320px 320px;
 }
 
+
+
 ul#album-fotos li#foto16 {
-    background: url('../imagens/hack20.JPEG') no-repeat;
+    background: url('../imagens/hack/hack6.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -239,7 +244,7 @@ ul#album-fotos li#foto16:hover {
 }
 
 ul#album-fotos li#foto17 {
-    background: url('../imagens/hack3.JPEG') no-repeat;
+    background: url('../imagens/hack/hack7.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -250,10 +255,8 @@ ul#album-fotos li#foto17:hover {
     background-size: 320px 320px;
 }
 
-
-
 ul#album-fotos li#foto18 {
-    background: url('../imagens/hack24.png') no-repeat;
+    background: url('../imagens/hack/hack8.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -265,7 +268,7 @@ ul#album-fotos li#foto18:hover {
 }
 
 ul#album-fotos li#foto19 {
-    background: url('../imagens/hack9.png') no-repeat;
+    background: url('../imagens/hack/hack9.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -277,7 +280,7 @@ ul#album-fotos li#foto19:hover {
 }
 
 ul#album-fotos li#foto20 {
-    background: url('../imagens/hack10.png') no-repeat;
+    background: url('../imagens/hack/hack10.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -289,7 +292,7 @@ ul#album-fotos li#foto20:hover {
 }
 
 ul#album-fotos li#foto21 {
-    background: url('../imagens/hack14.png') no-repeat;
+    background: url('../imagens/hack/hack11.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -299,9 +302,8 @@ ul#album-fotos li#foto21:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
-
 ul#album-fotos li#foto22 {
-    background: url('../imagens/hack18.png') no-repeat;
+    background: url('../imagens/hack/hack12.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -312,8 +314,10 @@ ul#album-fotos li#foto22:hover {
     background-size: 320px 320px;
 }
 
+/* DARA UNIT 1 & 4 */
+
 ul#album-fotos li#foto23 {
-    background: url('../imagens/hack21.JPEG') no-repeat;
+    background: url('../imagens/dara/dara1.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -323,8 +327,9 @@ ul#album-fotos li#foto23:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
+
 ul#album-fotos li#foto24 {
-    background: url('../imagens/hack22.JPEG') no-repeat;
+    background: url('../imagens/dara/dara2.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -335,10 +340,8 @@ ul#album-fotos li#foto24:hover {
     background-size: 320px 320px;
 }
 
-/* DARA UNIT 1 & 4 */
-
 ul#album-fotos li#foto25 {
-    background: url('../imagens/board.jpg') no-repeat;
+    background: url('../imagens/dara/dara3.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -350,7 +353,7 @@ ul#album-fotos li#foto25:hover {
 }
 
 ul#album-fotos li#foto26 {
-    background: url('../imagens/don.jpg') no-repeat;
+    background: url('../imagens/dara/dara4.png') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -362,7 +365,7 @@ ul#album-fotos li#foto26:hover {
 }
 
 ul#album-fotos li#foto27 {
-    background: url('../imagens/show.jpg') no-repeat;
+    background: url('../imagens/dara2.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -373,20 +376,22 @@ ul#album-fotos li#foto27:hover {
     background-size: 320px 320px;
 }
 
+
+
 ul#album-fotos li#foto28 {
-    background: url('../imagens/team-work.jpg') no-repeat;
+    background: url('../imagens/dara16.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
 }
 
-ul#album-fotos li#foto28:hover {
+ul#album-fotos li#foto38:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
 
 ul#album-fotos li#foto29 {
-    background: url('../imagens/dara2.JPEG') no-repeat;
+    background: url('../imagens/dara15.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -397,10 +402,8 @@ ul#album-fotos li#foto29:hover {
     background-size: 320px 320px;
 }
 
-
-
 ul#album-fotos li#foto30 {
-    background: url('../imagens/dara16.JPEG') no-repeat;
+    background: url('../imagens/dio.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -412,7 +415,7 @@ ul#album-fotos li#foto30:hover {
 }
 
 ul#album-fotos li#foto31 {
-    background: url('../imagens/dara15.JPEG') no-repeat;
+    background: url('../imagens/dara18.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -424,7 +427,7 @@ ul#album-fotos li#foto31:hover {
 }
 
 ul#album-fotos li#foto32 {
-    background: url('../imagens/dio.JPEG') no-repeat;
+    background: url('../imagens/dara7.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -436,7 +439,7 @@ ul#album-fotos li#foto32:hover {
 }
 
 ul#album-fotos li#foto33 {
-    background: url('../imagens/dara18.JPEG') no-repeat;
+    background: url('../imagens/dara1.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -446,9 +449,8 @@ ul#album-fotos li#foto33:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
-
 ul#album-fotos li#foto34 {
-    background: url('../imagens/dara7.JPEG') no-repeat;
+    background: url('../imagens/dara5.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -459,8 +461,10 @@ ul#album-fotos li#foto34:hover {
     background-size: 320px 320px;
 }
 
+/* DARA UNIT 2 & 3 */
+
 ul#album-fotos li#foto35 {
-    background: url('../imagens/dara1.JPEG') no-repeat;
+    background: url('../imagens/hartrao6.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -470,8 +474,9 @@ ul#album-fotos li#foto35:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
+
 ul#album-fotos li#foto36 {
-    background: url('../imagens/dara5.JPEG') no-repeat;
+    background: url('../imagens/hartrao7.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
@@ -482,40 +487,14 @@ ul#album-fotos li#foto36:hover {
     background-size: 320px 320px;
 }
 
-/* DARA UNIT 2 & 3 */
-
 ul#album-fotos li#foto37 {
-    background: url('../imagens/hartrao6.JPEG') no-repeat;
-    background-position: 50% 50%;
-    background-size: 600px 600px;
-    background-color: #ffffff;
-}
-
-ul#album-fotos li#foto37:hover {
-    background-position: 0px 0px;
-    background-size: 320px 320px;
-}
-
-ul#album-fotos li#foto38 {
-    background: url('../imagens/hartrao7.JPEG') no-repeat;
-    background-position: 50% 50%;
-    background-size: 600px 600px;
-    background-color: #ffffff;
-}
-
-ul#album-fotos li#foto38:hover {
-    background-position: 0px 0px;
-    background-size: 320px 320px;
-}
-
-ul#album-fotos li#foto39 {
     background: url('../imagens/hartrao3.JPEG') no-repeat;
     background-position: 50% 50%;
     background-size: 600px 600px;
     background-color: #ffffff;
 }
 
-ul#album-fotos li#foto39:hover {
+ul#album-fotos li#foto37:hover {
     background-position: 0px 0px;
     background-size: 320px 320px;
 }
